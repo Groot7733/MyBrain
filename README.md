@@ -1,4 +1,4 @@
-# MyBrain
+# Version SLAM
 **collate the notes and resources** 
 
 **希望自己能够一直保持好奇心，并成为一个有趣的人！** 
